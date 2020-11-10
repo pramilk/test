@@ -1,0 +1,13 @@
+ Volume in drive D is 2T
+ Volume Serial Number is E484-411A
+
+ Directory of D:\Pramil\Programs\githublearn\test2\test
+
+11/10/2020  03:34 PM    <DIR>          .
+11/10/2020  03:34 PM    <DIR>          ..
+11/10/2020  03:33 PM                 0 firstfile.txt
+11/10/2020  03:33 PM             1,085 LICENSE
+11/10/2020  03:34 PM                 0 out.txt
+11/10/2020  03:33 PM                 0 SecondFile.txt
+               4 File(s)          1,085 bytes
+               2 Dir(s)  712,137,715,712 bytes free
